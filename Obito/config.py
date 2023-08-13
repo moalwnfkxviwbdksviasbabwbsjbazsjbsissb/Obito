@@ -13,17 +13,17 @@ class Config(object):
     # REQUIRED
     # Login to https://my.telegram.org and fill in these slots with the details given by it
 
-    API_ID = 123456  # integer value, dont use ""
-    API_HASH = "awoo"
-    TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
-    OWNER_ID = 797768146  # If you dont know, run the bot and do /id in your private chat with it, also an integer
-    OWNER_USERNAME = "tdrki_1" 
-    SUPPORT_CHAT = "todorokisupportgrup"  # Your own group for support, do not add the @
+    API_ID = 26286754  # integer value, dont use ""
+    API_HASH = "7a637e05958e14496e6ab1910a9eb9e7"
+    TOKEN = "6484547301:AAEBttmjmTL42Sdz_omIJSuwx2FT2VAoWac"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
+    OWNER_ID = DRFB11L44JW6  # If you dont know, run the bot and do /id in your private chat with it, also an integer
+    OWNER_USERNAME = "Q_B_H" 
+    SUPPORT_CHAT = "K_1_U"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
-        -1001392103597
+        -1001975125149
     )  # Prints any new group the bot is added to, prints just the name and ID.
     EVENT_LOGS = (
-        -1001392103597
+        -1001975125149
     )  # Prints information like gbans, sudo promotes, AI enabled disable states that may help in debugging and shit
 
     # RECOMMENDED
